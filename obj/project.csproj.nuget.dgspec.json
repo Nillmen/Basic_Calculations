@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Toane\\Cal\\Basic_Calculations\\project.csproj": {}
+    "D:\\Toane\\Conflict\\Basic_Calculations\\project.csproj": {}
   },
   "projects": {
-    "D:\\Toane\\Cal\\Basic_Calculations\\project.csproj": {
+    "D:\\Toane\\Conflict\\Basic_Calculations\\project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Toane\\Cal\\Basic_Calculations\\project.csproj",
+        "projectUniqueName": "D:\\Toane\\Conflict\\Basic_Calculations\\project.csproj",
         "projectName": "project",
-        "projectPath": "D:\\Toane\\Cal\\Basic_Calculations\\project.csproj",
+        "projectPath": "D:\\Toane\\Conflict\\Basic_Calculations\\project.csproj",
         "packagesPath": "C:\\Users\\tranq\\.nuget\\packages\\",
-        "outputPath": "D:\\Toane\\Cal\\Basic_Calculations\\obj\\",
+        "outputPath": "D:\\Toane\\Conflict\\Basic_Calculations\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tranq\\AppData\\Roaming\\NuGet\\NuGet.Config",
