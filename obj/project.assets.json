@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\tam\\learn programing language\\project\\project.csproj",
+      "projectUniqueName": "D:\\tam\\learn programing language\\Project\\project.csproj",
       "projectName": "project",
-      "projectPath": "D:\\tam\\learn programing language\\project\\project.csproj",
+      "projectPath": "D:\\tam\\learn programing language\\Project\\project.csproj",
       "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-      "outputPath": "D:\\tam\\learn programing language\\project\\obj\\",
+      "outputPath": "D:\\tam\\learn programing language\\Project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config"
