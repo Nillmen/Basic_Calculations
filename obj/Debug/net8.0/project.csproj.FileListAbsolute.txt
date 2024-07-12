@@ -1,0 +1,15 @@
+D:\tam\learn programing language\Project\bin\Debug\net8.0\project.exe
+D:\tam\learn programing language\Project\bin\Debug\net8.0\project.deps.json
+D:\tam\learn programing language\Project\bin\Debug\net8.0\project.runtimeconfig.json
+D:\tam\learn programing language\Project\bin\Debug\net8.0\project.dll
+D:\tam\learn programing language\Project\bin\Debug\net8.0\project.pdb
+D:\tam\learn programing language\Project\obj\Debug\net8.0\project.GeneratedMSBuildEditorConfig.editorconfig
+D:\tam\learn programing language\Project\obj\Debug\net8.0\project.AssemblyInfoInputs.cache
+D:\tam\learn programing language\Project\obj\Debug\net8.0\project.AssemblyInfo.cs
+D:\tam\learn programing language\Project\obj\Debug\net8.0\project.csproj.CoreCompileInputs.cache
+D:\tam\learn programing language\Project\obj\Debug\net8.0\project.sourcelink.json
+D:\tam\learn programing language\Project\obj\Debug\net8.0\project.dll
+D:\tam\learn programing language\Project\obj\Debug\net8.0\refint\project.dll
+D:\tam\learn programing language\Project\obj\Debug\net8.0\project.pdb
+D:\tam\learn programing language\Project\obj\Debug\net8.0\project.genruntimeconfig.cache
+D:\tam\learn programing language\Project\obj\Debug\net8.0\ref\project.dll
