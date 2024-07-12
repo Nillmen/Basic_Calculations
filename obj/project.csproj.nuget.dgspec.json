@@ -1,25 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "D:\\tam\\learn programing language\\Project\\project.csproj": {}
+    "D:\\Toane\\Cal\\Basic_Calculations\\project.csproj": {}
   },
   "projects": {
-    "D:\\tam\\learn programing language\\Project\\project.csproj": {
+    "D:\\Toane\\Cal\\Basic_Calculations\\project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\tam\\learn programing language\\Project\\project.csproj",
+        "projectUniqueName": "D:\\Toane\\Cal\\Basic_Calculations\\project.csproj",
         "projectName": "project",
-        "projectPath": "D:\\tam\\learn programing language\\Project\\project.csproj",
-        "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-        "outputPath": "D:\\tam\\learn programing language\\Project\\obj\\",
+        "projectPath": "D:\\Toane\\Cal\\Basic_Calculations\\project.csproj",
+        "packagesPath": "C:\\Users\\tranq\\.nuget\\packages\\",
+        "outputPath": "D:\\Toane\\Cal\\Basic_Calculations\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\tranq\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -32,6 +35,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -53,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
